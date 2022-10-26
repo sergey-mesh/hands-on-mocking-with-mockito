@@ -22,6 +22,7 @@ class RegistrationServiceV2Test {
 
   @BeforeEach
   void setUp() {
+    MockitoAnnotations.openMocks(this);
   }
 
   @Test
