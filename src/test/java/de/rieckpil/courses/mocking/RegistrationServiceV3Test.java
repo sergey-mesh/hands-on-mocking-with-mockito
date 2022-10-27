@@ -28,5 +28,6 @@ class RegistrationServiceV3Test {
     System.out.println(bannedUsersClient.getClass());
 
     System.out.println(cut.toString());
+    System.out.println();
   }
 }
